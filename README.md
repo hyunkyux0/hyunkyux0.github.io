@@ -1,0 +1,2 @@
+# nerdykoreankid
+Personal portfolio
