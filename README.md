@@ -1,7 +1,7 @@
 # nerdykoreankid
 Personal portfolio
 
-#To Add
+# To Add
 - SISC Hub
 - SISC Coders
 - Sake Compass
